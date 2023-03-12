@@ -6,12 +6,11 @@ cook by themselves at home. However, the problem may occur because this is a sta
 people or some people need to find a new menu to cook for the exotic dish. The important thing is
 ingredients, sometimes we don’t know what we can make from the existing ingredients in the refrigerator.
 
-From the Covid-19, on this day people around the world need to adapt themselves to survive and avoid
-the virus. Some restaurants cannot open because of the economic downturn, so many people decide to
-cook by themselves at home. However, the problem may occur because this is a starting point for some
-people or some people need to find a new menu to cook for the exotic dish. The important thing is
-ingredients, sometimes we don’t know what we can make from the existing ingredients in the refrigerator.
-
+Therefore, we decided to create a mobile application with the cooking community to solve the problem.
+The application is open for all people to add the food recipe on the application for the other people to use
+them. This application is a community base and it will try to recommend the menu to users by the
+ingredient and preference of the user by using a decision tree algorithm. Initially, we will implement this
+application for a small group of people and will add more features to cover all needs in the future
 
 ## Features
 To start designing the FoodGook application, we have explored the needs of users to find out their pain points in the area of cooking. Also, have made adjustments to various features to suit the needs of the target users.
