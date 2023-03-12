@@ -38,15 +38,23 @@ To start designing the FoodGook application, we have explored the needs of users
 
 ## Demo
 
-- Sign in
+- Sign in/ Sign up
  
-![ezgif com-resize](https://user-images.githubusercontent.com/80881226/224565553-cd9dba2e-bede-44d4-bfef-36cf9a3fdea0.gif)
+    ![ezgif com-resize](https://user-images.githubusercontent.com/80881226/224565553-cd9dba2e-bede-44d4-bfef-36cf9a3fdea0.gif)
 - Feeds
  
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/80881226/224565813-44fe0f69-a2c4-4c8a-b215-325a42abef94.gif)
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/80881226/224566181-b7b3fe64-83ac-42b0-a1ff-dbe27622d440.gif) 
-![ezgif com-resize (3)](https://user-images.githubusercontent.com/80881226/224566355-3cdfd8b9-f827-4db5-a3ee-0bc8ebc55579.gif)
-![ezgif com-resize (4)](https://user-images.githubusercontent.com/80881226/224566409-ddbd5c92-9cf4-46d8-b5f2-bb2f3f028a1c.gif)
+    ![ezgif com-resize (1)](https://user-images.githubusercontent.com/80881226/224565813-44fe0f69-a2c4-4c8a-b215-325a42abef94.gif)
+- Forums
+ 
+    ![ezgif com-resize (2)](https://user-images.githubusercontent.com/80881226/224566181-b7b3fe64-83ac-42b0-a1ff-dbe27622d440.gif) 
+
+- Grocery
+ 
+    ![ezgif com-resize (3)](https://user-images.githubusercontent.com/80881226/224566355-3cdfd8b9-f827-4db5-a3ee-0bc8ebc55579.gif)
+
+- Profile
+ 
+    ![ezgif com-resize (4)](https://user-images.githubusercontent.com/80881226/224566409-ddbd5c92-9cf4-46d8-b5f2-bb2f3f028a1c.gif)
 
 - Full-version of demo video
    https://drive.google.com/file/d/1GLb0TXxhoInFLQrf1E2hftuIlU0Y85GP/view?usp=share_link
