@@ -40,7 +40,7 @@ To start designing the FoodGook application, we have explored the needs of users
 
 
 <div align="center">
-  <video src="![ezgif com-resize](https://user-images.githubusercontent.com/80881226/224564283-75fec0bd-229f-4a99-a28d-91757dd6ec52.gif)"/>
+  <video src="ezgif com-resize"/>
 <div/>
 
 
