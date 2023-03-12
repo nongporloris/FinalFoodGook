@@ -37,7 +37,7 @@ To start designing the FoodGook application, we have explored the needs of users
     Press Instructions & Ingredients step by step, provide timers and voice guidance, can be used hands-free.
 
 ## Demo
-<div align="center">
+<div align-items="center">
 ![ezgif com-resize](https://user-images.githubusercontent.com/80881226/224565553-cd9dba2e-bede-44d4-bfef-36cf9a3fdea0.gif)
 ![ezgif com-resize (1)](https://user-images.githubusercontent.com/80881226/224565813-44fe0f69-a2c4-4c8a-b215-325a42abef94.gif)
 ![ezgif com-resize (2)](https://user-images.githubusercontent.com/80881226/224566181-b7b3fe64-83ac-42b0-a1ff-dbe27622d440.gif) 
