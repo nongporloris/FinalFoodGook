@@ -47,7 +47,7 @@ To start designing the FoodGook application, we have explored the needs of users
 ![ezgif com-resize (4)](https://user-images.githubusercontent.com/80881226/224566409-ddbd5c92-9cf4-46d8-b5f2-bb2f3f028a1c.gif)
 
 - Full-version of demo video
-    https://drive.google.com/file/d/1GLb0TXxhoInFLQrf1E2hftuIlU0Y85GP/view?usp=share_link
+-   https://drive.google.com/file/d/1GLb0TXxhoInFLQrf1E2hftuIlU0Y85GP/view?usp=share_link
 
 
 
