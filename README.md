@@ -58,6 +58,11 @@ To start designing the FoodGook application, we have explored the needs of users
 
 - Full-version of demo video
    https://drive.google.com/file/d/1GLb0TXxhoInFLQrf1E2hftuIlU0Y85GP/view?usp=share_link
+   
+   
+## Documentation
+
+- [FoodGook Final Report](https://drive.google.com/file/d/10x_rm90M9DLk4owlsI7YyrWgdFgL4PXV/view?usp=sharing)
 
 
 
