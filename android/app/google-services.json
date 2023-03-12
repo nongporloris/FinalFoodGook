@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661687786425",
+    "firebase_url": "https://foodgook-49dd4-default-rtdb.firebaseio.com",
+    "project_id": "foodgook-49dd4",
+    "storage_bucket": "foodgook-49dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661687786425:android:5d909508077b01bc6cb468",
+        "android_client_info": {
+          "package_name": "com.fg.foodgook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661687786425-qp7ntssbis78q878j1icfidib3vva66j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fg.foodgook",
+            "certificate_hash": "3ea9cb52a21547c2b842de63c0e4cf1391a444bc"
+          }
+        },
+        {
+          "client_id": "661687786425-fevattmh7s8d9ss2a6g6pnh01k6ts3h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Tkof8g2gofgCN42kHN1YQXC4fotZiVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661687786425-fevattmh7s8d9ss2a6g6pnh01k6ts3h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
