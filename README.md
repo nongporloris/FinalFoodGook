@@ -38,6 +38,11 @@ To start designing the FoodGook application, we have explored the needs of users
 
 ## Demo
 ![ezgif com-resize](https://user-images.githubusercontent.com/80881226/224564283-75fec0bd-229f-4a99-a28d-91757dd6ec52.gif)
+<p align="center">
+  <img src="[demo.gif](https://user-images.githubusercontent.com/80881226/224564283-75fec0bd-229f-4a99-a28d-91757dd6ec52.gif)" alt="animated" />
+</p>
+
+
 
 ![ezgif com-video-to-gif1](https://user-images.githubusercontent.com/80881226/224563469-4694adb2-8a38-4bc1-898f-e265e0a5fd08.gif)
 ![ezgif com-video-to-gif3](https://user-images.githubusercontent.com/80881226/224563479-1281780f-bed8-4331-ada8-26f127d27a59.gif)
