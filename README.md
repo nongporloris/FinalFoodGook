@@ -35,3 +35,7 @@ To start designing the FoodGook application, we have explored the needs of users
     Recipes that users create can be shared via social media.
 - **Step-by-step**  
     Press Instructions & Ingredients step by step, provide timers and voice guidance, can be used hands-free.
+
+## Demo
+
+[![Watch the video](https://drive.google.com/file/d/1_AeZ7uNkIjhrYfMtTKmnYkMUuHIoKz7L/view?usp=sharing)](https://drive.google.com/file/d/1_AeZ7uNkIjhrYfMtTKmnYkMUuHIoKz7L/view?usp=sharing)
